@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/animal_bow",
+    "textures": {
+      "layer0": "minecraft:item/air"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "sugar"
+        }
+      }
+    }
+  },
+
+  "rewards": {
+    "function": "kirishima:animal_hunt/items/safe_taunts/use_safe_taunts"
+  }
+}

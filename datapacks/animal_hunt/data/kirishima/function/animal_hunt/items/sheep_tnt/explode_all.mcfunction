@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=sheep_tnt,scores={explode_time=9}] at @s run execute as @e[distance=...6] run summon creeper ~ ~ ~ {Fuse:0,ignited:1b,ExplosionRadius:1,powered:1b}
+kill @e[type=armor_stand,tag=sheep_tnt,scores={explode_time=9}]

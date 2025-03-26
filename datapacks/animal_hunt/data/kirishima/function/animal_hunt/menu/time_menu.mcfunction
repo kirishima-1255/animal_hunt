@@ -1,0 +1,1 @@
+tellraw @p {"text":"[ゲーム時間を変更]","color":"blue","clickEvent":{"action":"run_command","value":"/function kirishima:animal_hunt/timekeeper/set_timer"}}

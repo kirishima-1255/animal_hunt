@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:chain"
+        }
+      }
+    }
+  },
+
+  "rewards": {
+    "function": "kirishima:animal_hunt/items/fireworks_taunts/use_fireworks_taunts"
+  }
+}

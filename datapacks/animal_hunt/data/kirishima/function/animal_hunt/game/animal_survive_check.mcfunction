@@ -1,0 +1,1 @@
+execute if score §b動物 TeamCount matches 0 run function kirishima:animal_hunt/timekeeper/stop_timer

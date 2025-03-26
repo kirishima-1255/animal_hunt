@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "redstone"
+        }
+      }
+    }
+  },
+
+  "rewards": {
+    "function": "kirishima:animal_hunt/items/sheep_tnt/use_sheep" 
+  }
+}

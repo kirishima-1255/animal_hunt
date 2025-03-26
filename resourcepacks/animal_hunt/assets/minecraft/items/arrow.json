@@ -1,0 +1,16 @@
+{
+    "model": {
+      "type": "minecraft:condition",
+      "property": "minecraft:view_entity",
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/arrow",
+        "tints": []
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/air"
+      }
+    },
+    "hand_animation_on_swap": false
+  }

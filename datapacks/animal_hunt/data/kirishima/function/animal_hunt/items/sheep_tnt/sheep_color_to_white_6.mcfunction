@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=sheep_tnt,scores={explode_time=6}] at @s run data modify entity @n[type=sheep] Color set value 0
+execute as @e[type=armor_stand,tag=sheep_tnt,scores={explode_time=6}] at @s run scoreboard players add @s explode_time 1

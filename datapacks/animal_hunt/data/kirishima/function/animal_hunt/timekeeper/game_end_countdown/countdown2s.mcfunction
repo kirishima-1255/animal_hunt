@@ -1,0 +1,2 @@
+execute if entity @a[team=animal] run execute as @a at @s run playsound minecraft:ui.button.click master @s ~ ~ ~ 1 1 1
+execute if entity @a[team=animal] run title @a actionbar {"text":"残り2秒","color":"yellow"}

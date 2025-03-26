@@ -1,0 +1,10 @@
+{
+    "criteria": {
+      "hurt": {
+        "trigger": "minecraft:player_hurt_entity"
+      }
+    },
+    "rewards": {
+      "function": "kirishima:animal_hunt/animal_wand/get_damage"
+    }
+  }

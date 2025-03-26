@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "beacon"
+        }
+      }
+    }
+  },
+
+  "rewards": {
+    "function": "kirishima:animal_hunt/items/beacon_taunts/use_beacon_taunts"
+  }
+}

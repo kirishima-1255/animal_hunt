@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+      "property": "minecraft:view_entity",
+      "on_true": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+          "type": "model",
+          "model": "item/chain"
+        },
+        "cases": [
+          {
+            "when": "fireworks_taunts",
+            "model": {
+              "type": "model",
+              "model": "item/firework_rocket"
+            }
+          }
+        ]
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/air"
+      }
+    }
+}

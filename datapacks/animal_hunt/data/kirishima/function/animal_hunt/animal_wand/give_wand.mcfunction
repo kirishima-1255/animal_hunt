@@ -1,0 +1,1 @@
+item replace entity @a[team=animal] hotbar.0 with breeze_rod[enchantments={"kirishima:is_attck_player":1},custom_name='"変身杖"',consumable={consume_seconds:0,sound:"ui.hud.bubble_pop",animation:"none",has_consume_particles:false},lore=['["",{"text":"右クリックで使用","italic":false}]']]
