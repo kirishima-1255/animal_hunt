@@ -10,9 +10,9 @@ Minecraftサーバ「The Hive」のHide and Seekをモチーフとした増え�
 本リソースパック以外を適用した場合，正常なゲームプレイをお楽しみいただけない可能性があります．
 
 ## 導入方法
-1. [リリースページ](https://github.com/kirishima-1255/animal_hunt/)　より，mcapp_farmhunt.zipをダウンロードする．
+1. [リリースページ](https://github.com/kirishima-1255/animal_hunt/releases)　より，mcapp_farmhunt.zipをダウンロードする．
 2. ダウンロードしたデータパック(zip)をdatapacksフォルダに入れる．
-3. [リソースパックのダウンロードリンク](https://github.com/kirishima-1255/animal_hunt/)より，動物ハント専用リソースパックをダウンロードする．
+3. [リソースパックのダウンロードリンク](https://github.com/kirishima-1255/animal_hunt/releases)より，動物ハント専用リソースパックをダウンロードする．
 4. ダウンロードしたリソースパック(zip)をresourcepacksフォルダに入れる．
 
 
