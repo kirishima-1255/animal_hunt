@@ -54,6 +54,7 @@ Minecraftサーバ「The Hive」のHide and Seekをモチーフとした増え�
 
 ### チーム加入は以下のコマンドで可能です．必要に応じてターゲットセレクタを設定してください．
 execute as @p run team join animal
+
 execute as @p run team join hunter
 
 # 連絡先
